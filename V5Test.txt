@@ -1,0 +1,9 @@
+Overview:
+We must implement a new feature that allows the user to play against a computer. 
+
+Expected Outcome:
+The outcome would be the same as before but now the player can play against a computer that makes moves on its own. The game still either draw, player 1 can win, or the computer wins. 
+
+Actual Outcome:
+
+Indeed, the user is able to play against the computer, and the game still only draws, player 1 wins or the computer wins. 

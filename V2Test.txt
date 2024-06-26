@@ -1,0 +1,20 @@
+Overview:
+We need to code a function that will display the board (3x3 Matrix). The reason we are implementing this with a function is because we will need to display the board every time a turn is made. 
+
+Expected Outcome:
+
+For now, it should just display a 3x3 matrix full of forward slashes like the following:
+
+"/"    "/"    "/"
+"/"    "/"    "/"
+"/"    "/"    "/"
+
+The forward slash represents an empty spot where a player can make a move. 
+
+Actual Outcome:
+
+It indeed displays a 3x3 matrix representing an empty board full of forward slashes like the following:
+
+"/"    "/"    "/"
+"/"    "/"    "/"
+"/"    "/"    "/"

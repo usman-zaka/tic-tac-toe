@@ -1,0 +1,13 @@
+Overview:
+We now need to put everything together and actually let the users play the game.
+
+Expected Outcome:
+
+There are three possible outcomes - Player 1 Wins, Player 2 Wins, It's a Draw
+
+
+Actual Outcome:
+
+The game performs as expected and there are 3 different outcomes, Player 1 Winning, Player 2 Winning or Drawing. 
+
+

@@ -1,0 +1,33 @@
+Overview:
+We need code two functions. The first one will check if player 1 has won the game by looking for combinations of Xs. The second function will check if player 2 has won the game by looking for combinations of Os. 
+
+Test 1:
+
+["/","X","O"; "/","X","/"; "/","X","O"]
+
+
+Test 2:
+["X","X","X"; "O","/","/"; "O","/","/"]
+
+Test 3:
+
+["O","X","O"; "X","X","O"; "X","O","X"]
+
+
+Expected Outcome:
+
+Test 1 - 1
+
+Test 2 - 1
+
+Test 3 - 0
+
+
+
+Actual Outcome:
+
+Test 1 - 1
+
+Test 2 - 1
+
+Test 3 - 0

@@ -1,0 +1,22 @@
+Overview:
+First step is to code the welcome message
+
+Hello! Welcome to Tic Tac Toe!
+You will be playing against another human! So bring a friend!
+Player 1 is X and Player 2 is O!
+You can make move by first indicating which row you want the move and then which column!
+A forward slash means that spot is empty and you can place a move there!
+Player 1 can start the game by making a move!
+
+The above is the expected outcome, with a 1 second delay between each line. 
+
+Actual Outcome:
+Hello! Welcome to Tic Tac Toe!
+You will be playing against another human! So bring a friend!
+Player 1 is X and Player 2 is O!
+You can make move by first indicating which row you want the move and then which column!
+A forward slash means that spot is empty and you can place a move there!
+Player 1 can start the game by making a move!
+
+The above is the actual outcome and indeed there is a 1 second delay between each line. 
+

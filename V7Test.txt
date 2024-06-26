@@ -1,0 +1,34 @@
+Overview:
+We must now implement some score tracking functionality. It should track the number of games won for either player when player 1 is playing against player 2 or a computer. 
+
+Expected Outcome:
+
+Test 1:
+Player 1 wins first game, Player 2 wins second game, they don't want to play again. 
+
+Score Displayed:
+
+Player 1's Won Games: 1
+
+Player 2's Won Games: 1
+
+Test 2:
+Player 1 wins first game, Computer wins second game, they don't want to play again. 
+
+Score Displayed:
+
+Player 1's Won Games: 1
+
+Computer's Won Games: 1
+
+Test 3:
+Player 1 wins first and second game, Computer wins third game, they don't want to play again. 
+
+Score Displayed:
+
+Player 1's Won Games: 2
+
+Computer's Won Games: 1
+
+Actual Outcome:
+The above outcome is satisfied and indeed is, what happens. 
