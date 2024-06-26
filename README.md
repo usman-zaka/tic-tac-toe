@@ -25,10 +25,12 @@ Before beginning, ensure you have the following installed and setup:
 * An IDE to run the program such as VS Code or the official MATLAB IDE by MathWorks
 
 **Installation**
+
 Clone the Repository:
 git clone [https://github.com/usman-zaka/skyward-bound] OR you can also download all the relevant files if using MathWorks IDE
  
 **Running the Game**
+
 Run the game through the terminal if desired or use the run button provided by the IDE
 
 **Controls**
