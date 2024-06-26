@@ -4,7 +4,7 @@ The MATLAB project created by Muhammad Usman Zaka
 README
  
  
-Welcome to my Tic Tac Toe game!. This is a text-based version of the game developed as a project for ENG 1002.
+Welcome to my Tic Tac Toe game! This is a text-based version of the game developed as a project for ENG 1002.
 This README file includes instructions on how to run and play the associated game.
 
 This game is meant to demonstrate my programming journey and how I started as a beginner and created a text-based game like this. 
