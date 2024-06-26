@@ -29,6 +29,7 @@ Clone the Repository:
 git clone [https://github.com/usman-zaka/skyward-bound] OR you can also download all the relevant files if using MathWorks IDE
  
 Running the Game
+
 Run the game through the terminal if desired or use the run button provided by the IDE
 
 Controls
